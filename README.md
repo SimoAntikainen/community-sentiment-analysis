@@ -12,7 +12,7 @@ data fast.
 
 For code and extended analysis see the `sentiment_analysis.ipynd` jupyter notebook.
 
-## Prequisites
+## Prerequisites
 
 `pip install requests bs4 pandas numpy praw nltk seaborn matplotlib`
 
