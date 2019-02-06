@@ -12,10 +12,10 @@ data fast.
 
 ## Examples
 
-![](pics\Compound_sentiment_score.png)
-![](pics\Negative_sentiment_score.png)
-![](pics\Positive_sentiment_score.png)
-![](pics\Positive_sentiment_score.png)
-![](pics\Compound_sentiment_score_of_1000_largest_subreddits.png)
+![Screenshot](pics\Compound_sentiment_score.png)
+![Screenshot](pics\Negative_sentiment_score.png)
+![Screenshot](pics\Positive_sentiment_score.png)
+![Screenshot](pics\Positive_sentiment_score.png)
+![Screenshot](pics\Compound_sentiment_score_of_1000_largest_subreddits.png)
 
 
