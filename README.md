@@ -24,7 +24,7 @@ three selected subreddits
 
 
 Subreddit sentiment scored ended up following a normal distribution with a large number of outliers with negative sentiment
-![Screenshot](pics\worst_and_best.png)
+![Screenshot](pics\worst_and_best.PNG)
 ![Screenshot](pics/Compound_sentiment_score_of_1000_largest_subreddits.png)
 
 
