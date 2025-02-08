@@ -1,4 +1,4 @@
-# community-sentiment-analysis
+# Sentiment Analysis of Reddit Online Communities with VADER
 
 Goal of the project was to familiarize myself with NLTK:s VADER Sentiment Analysis tool
 [[VADER](https://github.com/cjhutto/vaderSentiment)] 
@@ -10,7 +10,7 @@ Reddit also provides PRAW-api [[PRAW](https://praw.readthedocs.io/en/latest/)]
 PRAW-api is rate limited, which makes it slow for for extracting large quantities of
 data fast. 
 
-For code and extended analysis see the `sentiment_analysis.ipynd` jupyter notebook.
+For code and extended analysis see the `sentiment_analysis.ipynb` jupyter notebook.
 
 ## Prerequisites
 
