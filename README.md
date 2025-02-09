@@ -14,7 +14,9 @@ For code and extended analysis see the `sentiment_analysis.ipynb` jupyter notebo
 
 ## Prerequisites
 
-`pip install requests bs4 pandas numpy praw nltk seaborn matplotlib`
+```bash
+pip install requests bs4 pandas numpy praw nltk seaborn matplotlib
+````
 
 ## Selected results
 
